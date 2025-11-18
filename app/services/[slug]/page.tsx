@@ -1,5 +1,5 @@
 "use client";
-
+export const runtime = 'edge';
 import { EXTENDED_YOKE_DATA } from "../../../data/maindata";
 import { motion } from "framer-motion";
 import Link from "next/link";

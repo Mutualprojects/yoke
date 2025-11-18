@@ -170,7 +170,7 @@ export default function HoverFooter() {
           </div>
 
           <p className="text-center md:text-left">
-            © {new Date().getFullYear()} Sky Volts Renewable Pvt. Ltd. All
+            © {new Date().getFullYear()} YOKE conveyers Pvt. Ltd. All
             rights reserved.
           </p>
         </div>
